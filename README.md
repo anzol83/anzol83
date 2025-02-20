@@ -23,12 +23,6 @@ JavaScript, React, Node.js, Express.js and any general software development ques
 
 ## 🌐 Connect with Me:
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="![image](https://github.com/user-attachments/assets/d6170680-d3a4-40d3-a42b-0b93fe4544af)
-"/>
-</a>
-
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="![image](https://github.com/user-attachments/assets/881d0b89-e215-4ef4-af2b-b151afedb9d1)
-"/>
-</a>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][(https://twitter.com/yourhandle)](https://x.com/az_anzol)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)  
