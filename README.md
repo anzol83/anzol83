@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20Everyone!👋&descAlign=50&descAlignY=50&fontAlignY=50&animation=fadeIn&rotate=0"/>
 </p>
 
-<h1 align="center">Hey there! I'm Angel Neupane 👋</h1>
+<h1 align="center">I'm Angel Neupane</h1>
 
 <p align="center">
   🚀 Full-Stack Developer | ✍️ Blogger | 🌍 Web3 Enthusiast
@@ -9,9 +9,9 @@
 
 ---
 
-## 🛠 About Me  
+## 🌟 About Me  
 - 💻 Passionate about **building scalable and efficient web applications**.  
-- 🎯 Currently diving deep into **AWS, GraphQL, and microservices architecture**.  
+- 🎯 Currently diving deep into **AI, Library Management, and microservices architecture**.  
 - ✍️ Sharing my knowledge through **blog posts and open-source contributions**.  
 - 🧠 Always learning and experimenting with **cutting-edge web technologies**.  
 - ⚡ Fun fact: I love solving **complex problems with simple solutions**.  
@@ -21,16 +21,26 @@
 ## 🌎 Let's Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anzol-neupane-276894250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30"/>
+  <a href="https://www.linkedin.com/in/anzol-neupane-276894250/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </a>
-  <a href="https://x.com/az_anzol" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" height="30"/>
+  <a href="https://www.instagram.com/anzol.neupane/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
   </a>
-  <a href="https://www.instagram.com/anzol.neupane/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30"/>
+    </a>
+  <a href="https://x.com/az_anzol" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="50"/>
+  <a href="https://medium.com/@angelneupane83" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="50"/>
+  </a>
+  <a href="https://dev.to/az_99f04027276612bd1dfd0f" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="50"/>
+  </a>
+  <a href="mailto:angelneupane83@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
   </a>
 </p>
+
 
 ---
 
@@ -69,12 +79,10 @@
 
 ## ⚡ Hobbies & Interests  
 
-- 🥊 **Boxing** – Practicing discipline and technique.
-- ⚽ **Playing Soccer** – Love the thrill of the game.      
+- 🥊 **Boxing** – Practicing discipline and technique.    
 - 📚 **Reading** – Tech blogs, business books, and sci-fi novels.  
 - ✈️ **Traveling** – Exploring new places & cultures.  
-- 🎧 **Music** – Lo-fi, Grunge, and instrumental soundtracks.  
-- 🎥 **Movies** – Big fan of sci-fi and thrillers.  
+- 🎧 **Music** – Lo-fi, Grunge, and instrumental soundtracks. 
 
 ---
 
