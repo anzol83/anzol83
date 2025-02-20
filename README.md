@@ -7,18 +7,18 @@
 ---
 
 ## 🌟 About Me  
-- 💻 Passionate about building **scalable web applications**.  
-- 🎯 Currently exploring **AI, Library Management, and microservices**.  
-- ✍️ Sharing knowledge through **blog posts and open-source**.  
-- ⚡ **Fun fact**: I love solving **complex problems with simple solutions**.
+- Passionate about building **scalable web applications**.  
+- Currently exploring **AI, Library Management, and microservices**.  
+- Sharing knowledge through **blog posts and open-source**.  
+- **Fun fact**: I love solving **complex problems with simple solutions**.
 
 ---
 
 ## 🎯 What I’m Currently Working On  
 
-🚀 **Building new projects**  
-💡 **Exploring AI-driven development tools**  
-📢 **Writing tech blogs on Medium & LinkedIn**  
+**Building new projects**  
+**Exploring AI-driven development tools**  
+**Writing tech blogs on Medium & LinkedIn**  
 
 ---
 
