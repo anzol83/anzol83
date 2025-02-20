@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm Angel Neupane</h1>
 
---- 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on:  
 Improving my skills on fullstack development.
 
@@ -23,6 +23,17 @@ JavaScript, React, Node.js, Express.js and any general software development ques
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anzol-neupane-276894250/)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/az_anzol)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anzol.neupane/) 
+<p align="left">
+  <a href="https://www.linkedin.com/in/anzol-neupane-276894250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="https://x.com/az_anzol" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.instagram.com/anzol.neupane/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="30"/>
+  </a>
+</p>
+
+---
+
