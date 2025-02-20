@@ -7,11 +7,10 @@
 ---
 
 ## 🌟 About Me  
-- 💻 Passionate about **building scalable and efficient web applications**.  
-- 🎯 Currently diving deep into **AI, Library Management, and microservices architecture**.  
-- ✍️ Sharing my knowledge through **blog posts and open-source contributions**.  
-- 🧠 Always learning and experimenting with **cutting-edge web technologies**.  
-- ⚡ Fun fact: I love solving **complex problems with simple solutions**.
+- 💻 Passionate about building **scalable web applications**.  
+- 🎯 Currently exploring **AI, Library Management, and microservices**.  
+- ✍️ Sharing knowledge through **blog posts and open-source**.  
+- ⚡ **Fun fact**: I love solving **complex problems with simple solutions**.
 
 ---
 
@@ -19,7 +18,7 @@
 
 🚀 **Building new projects**  
 💡 **Exploring AI-driven development tools**  
-📢 **Writing tech blogs on Medium & LinkedIn** 
+📢 **Writing tech blogs on Medium & LinkedIn**  
 
 ---
 
@@ -32,9 +31,9 @@
   <a href="https://www.instagram.com/anzol.neupane/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
   </a>
-    </a>
   <a href="https://x.com/az_anzol" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="50"/>
+  </a>
   <a href="https://medium.com/@angelneupane83" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="50"/>
   </a>
@@ -45,7 +44,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
   </a>
 </p>
-
 
 ---
 
@@ -66,7 +64,4 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/anzol83/anzol83/output/github-contribution-grid-snake.svg)
-
-
-⭐ **Check out my repositories and feel free to connect!**  
+⭐ **Check out my repositories and feel free to connect!**
