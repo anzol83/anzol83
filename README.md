@@ -1,7 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20Everyone!👋&descAlign=50&descAlignY=50&fontAlignY=50&animation=fadeIn&rotate=0"/>
-</p>
-
-<h1 align="center">I'm Angel Neupane</h1>
+<h1 align="center">Hey there! I'm Angel Neupane 👋</h1>
 
 <p align="center">
   🚀 Full-Stack Developer | ✍️ Blogger | 🌍 Web3 Enthusiast
@@ -14,7 +11,15 @@
 - 🎯 Currently diving deep into **AI, Library Management, and microservices architecture**.  
 - ✍️ Sharing my knowledge through **blog posts and open-source contributions**.  
 - 🧠 Always learning and experimenting with **cutting-edge web technologies**.  
-- ⚡ Fun fact: I love solving **complex problems with simple solutions**.  
+- ⚡ Fun fact: I love solving **complex problems with simple solutions**.
+
+---
+
+## 🎯 What I’m Currently Working On  
+
+🚀 **Building new projects**  
+💡 **Exploring AI-driven development tools**  
+📢 **Writing tech blogs on Medium & LinkedIn** 
 
 ---
 
@@ -66,14 +71,6 @@
 📖 [Understanding Loops in JavaScript: For, While, Do-While, Break, and Continue](https://medium.com/@yourhandle/javascript-loops)  
 🌐 [Single Page Applications (SPAs) vs Multi Page Applications (MPAs) in React](https://medium.com/@yourhandle/react-spa-vs-mpa)  
 📝 **More coming soon...**  
-
----
-
-## 🎯 What I’m Currently Working On  
-
-🚀 **Building new projects**  
-💡 **Exploring AI-driven development tools**  
-📢 **Writing tech blogs on Medium & LinkedIn**  
 
 ---
 
