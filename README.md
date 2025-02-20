@@ -4,7 +4,7 @@
 
 <h1 align="center">I'm Angel Neupane</h1>
 
-## 💫 About Me:
+--- 💫 About Me:
 🔭 I’m currently working on:  
 Improving my skills on fullstack development.
 
