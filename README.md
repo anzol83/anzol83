@@ -6,22 +6,6 @@
 
 ---
 
-## 🌟 About Me  
-- Passionate about building **scalable web applications**.  
-- Currently exploring **AI, Library Management, and microservices**.  
-- Sharing knowledge through **blog posts and open-source**.  
-- **Fun fact**: I love solving **complex problems with simple solutions**.
-
----
-
-## 🎯 What I’m Currently Working On  
-
-- Building new projects 
-- Exploring AI-driven development tools 
-- Writing tech blogs on Medium & LinkedIn
-
----
-
 ## 🌎 Let's Connect  
 
 <p align="center">
@@ -47,6 +31,22 @@
 
 ---
 
+## 🌟 About Me  
+- Passionate about building **scalable web applications**.  
+- Currently exploring **AI, Library Management, and microservices**.  
+- Sharing knowledge through **blog posts and open-source**.  
+- **Fun fact**: I love solving **complex problems with simple solutions**.
+
+---
+
+## 🎯 What I’m Currently Working On  
+
+- Building new projects 
+- Exploring AI-driven development tools 
+- Writing tech blogs on Medium & LinkedIn
+
+---
+
 ## 🛠 Tech Toolbox  
 
 <p align="center">
@@ -60,6 +60,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anzol83&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzol83&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anzol83&theme=github-dark-blue" />
 </p>
 
 ---
