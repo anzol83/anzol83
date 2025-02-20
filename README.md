@@ -60,27 +60,12 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anzol83&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anzol83&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
 
-## ✍️ Latest Blog Posts  
-
-📖 [Understanding Loops in JavaScript: For, While, Do-While, Break, and Continue](https://medium.com/@yourhandle/javascript-loops)  
-🌐 [Single Page Applications (SPAs) vs Multi Page Applications (MPAs) in React](https://medium.com/@yourhandle/react-spa-vs-mpa)  
-📝 **More coming soon...**  
-
----
-
-## ⚡ Hobbies & Interests  
-
-- 🥊 **Boxing** – Practicing discipline and technique.    
-- 📚 **Reading** – Tech blogs, business books, and sci-fi novels.  
-- ✈️ **Traveling** – Exploring new places & cultures.  
-- 🎧 **Music** – Lo-fi, Grunge, and instrumental soundtracks. 
-
----
+![Snake animation](https://github.com/anzol83/anzol83/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ **Check out my repositories and feel free to connect!**  
