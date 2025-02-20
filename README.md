@@ -16,9 +16,9 @@
 
 ## 🎯 What I’m Currently Working On  
 
-- Building new projects**  
-- Exploring AI-driven development tools**  
-- Writing tech blogs on Medium & LinkedIn**  
+- Building new projects 
+- Exploring AI-driven development tools 
+- Writing tech blogs on Medium & LinkedIn
 
 ---
 
