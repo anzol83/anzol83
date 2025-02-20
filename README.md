@@ -66,6 +66,7 @@
 
 ---
 
-![Snake animation](https://github.com/anzol83/anzol83/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/anzol83/anzol83/output/github-contribution-grid-snake.svg)
+
 
 ⭐ **Check out my repositories and feel free to connect!**  
