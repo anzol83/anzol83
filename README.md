@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/anzol-neupane-276894250/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </a>
-  <a href="https://www.instagram.com/anzol.neupane/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/ig_anzol/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
   </a>
   <a href="https://x.com/az_anzol" target="_blank" style="text-decoration: none;">
