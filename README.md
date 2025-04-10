@@ -12,8 +12,8 @@
   <a href="https://www.linkedin.com/in/anzol-neupane-276894250/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </a>
-  <a href="https://www.instagram.com/ig_anzol/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="50"/>
+  <a href="mailto:angelneupane83@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
   </a>
   <a href="https://x.com/az_anzol" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="50"/>
@@ -23,9 +23,6 @@
   </a>
   <a href="https://dev.to/az_99f04027276612bd1dfd0f" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="50"/>
-  </a>
-  <a href="mailto:angelneupane83@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
   </a>
 </p>
 
