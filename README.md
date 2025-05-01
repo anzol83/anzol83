@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Angel Neupane 👋</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | ✍️ Blogger | 🌍 Web3 Enthusiast
+   Full-Stack Developer
 </p>
 
 ---
@@ -31,16 +31,19 @@
 ## 🌟 About Me  
 - Passionate about building **scalable web applications**.  
 - Currently exploring **AI, Library Management, and microservices**.  
-- Sharing knowledge through **blog posts and open-source**.  
+- Sharing knowledge through **blog posts and LinkedIn**.  
 - **Fun fact**: I love solving **complex problems with simple solutions**.
 
 ---
 
 ## 🎯 What I’m Currently Working On  
 
-- Building new projects 
-- Exploring AI-driven development tools 
-- Writing tech blogs on Medium & LinkedIn
+-  **Building NearNow** – A MERN stack local events platform with real-time features and map integration.  
+-  **Improving Wrapo E-Commerce** – Scaling our team-based project with enhanced UI/UX and Stripe integration.  
+-  **Leading PTE Sathi** – A platform dedicated to helping Nepali students prepare for the PTE exam, focusing on design, dev flow, and team coordination.  
+-  **Writing Technical Blogs** – Sharing insights on full-stack projects, JavaScript, and developer productivity.  
+-  **Exploring AI & Automation Tools** – Integrating AI assistants and streamlining coding workflows.
+
 
 ---
 
@@ -61,6 +64,11 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anzol83&theme=github-dark-blue" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anzol83&label=Profile%20views&color=0e75b6&style=flat" alt="anzol83" />
 </p>
 
 ---
