@@ -32,7 +32,7 @@
 - Passionate about building **scalable web applications**.  
 - Currently exploring **AI, Library Management, and microservices**.  
 - Sharing knowledge through **blog posts and LinkedIn**.  
-- **Fun fact**: I love solving **complex problems with simple solutions**.
+- I love solving **complex problems with simple solutions**.
 
 ---
 
