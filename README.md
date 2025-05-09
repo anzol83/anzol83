@@ -38,7 +38,6 @@
 
 ## 🎯 What I’m Currently Working On  
 
--  **Building NearNow** – A MERN stack local events platform with real-time features and map integration.  
 -  **Improving Wrapo E-Commerce** – Scaling our team-based project with enhanced UI/UX and Stripe integration.  
 -  **Leading PTE Sathi** – A platform dedicated to helping Nepali students prepare for the PTE exam, focusing on design, dev flow, and team coordination.  
 -  **Writing Technical Blogs** – Sharing insights on full-stack projects, JavaScript, and developer productivity.  
